@@ -4,7 +4,7 @@
 
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
-[Live Report Link](bit.ly/4dHjNhc)
+# Live Report Link in the Description👉
 
 ## Tech stacks
 
@@ -181,9 +181,6 @@ In Home view, all the views button will be available. User will land on specific
 
 ![Overall Report.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Overall.gif)
 
-## Info Page
-
-![Info.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif)
 
 ## Finance View
 
@@ -204,8 +201,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ![Executive.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
 
-you can find the full report file here : [Report](bit.ly/4dHjNhc)
-
+you can find the full report file here In Description of this Repository.
 
 ## Project Outcome
 
